@@ -41,10 +41,12 @@
   margin: 0;
   padding: 0px;
 }
-.tasks-list-item, .block-header {
+.tasks-list-item,
+.block-header {
   list-style: none;
 }
-input,button {
+input,
+button {
   outline: none;
 }
 .button {
